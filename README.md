@@ -1,5 +1,6 @@
 ## About me
 
+.
 
 <img src="https://github.com/marcusv77/marcusv77/blob/main/giphy.gif" align="right" width="300">
 
