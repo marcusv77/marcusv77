@@ -3,6 +3,7 @@
 
 <img src="https://github.com/marcusv77/marcusv77/blob/main/giphy.gif" align="right" width="300">
 
+.
 ### Hello Everybody
 My name is Marcus Fernandes and this is my github. I am currently studying Computer Science at the Federal University of Ouro Preto, where I participate in a scientific initiation project with the theme "Digital image processing applied to the evaluation of cells in Pap smears".
 I' ve a great experience in web and mobile development, especially in frontend.
