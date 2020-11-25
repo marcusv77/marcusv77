@@ -8,12 +8,8 @@ My name is Marcus Fernandes and this is my github. I am currently studying Compu
 I' ve a great experience in web and mobile development, especially in frontend.
 Browse my repositories and see a little more about my projects.
 
----
-
 ### Working on
 - Research project in Digital image processing applied to the evaluation of cells in Pap smears.
-
----
 
 ### Contact
 - LinkedIn: <a href="https://www.linkedin.com/in/marcus-fernandes-f77/" target="_blank">marcus-fernandes-f77</a>
