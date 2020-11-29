@@ -1,9 +1,16 @@
-## About.tsx
+## About.ts
 
 ### console.log("Hello Everybody");
 My name is Marcus Fernandes and this is my github. I am currently studying Computer Science at the Federal University of Ouro Preto, where I participate in a scientific initiation project with the theme "Digital image processing applied to the evaluation of cells in Pap smears".
 I' ve a great experience in web and mobile development, especially in frontend.
 Browse my repositories and see a little more about my projects.
+
+---
+
+### console.log("Languages and Frameworks arrays");
+
+const lenguages:string[] = ["Pascal", "C", "C++", "Java", "Dart", "Js", "Ts"];
+const frameworks:string[] = ["CodeIgniter", "Angular", "Flutter", "ReactJs", "React Native", "Node"];
 
 ---
 
