@@ -9,7 +9,7 @@ Browse my repositories and see a little more about my projects.
 
 ### console.log("Languages and Frameworks arrays");
 
-- const lenguages:string[ ] = ["Pascal", "C", "C++", "Java", "Dart", "Js", "Ts"];
+- const lenguages:string[ ] = ["Pascal", "C", "C++", "Java", "Haskell", "Dart", "Js", "Ts"];
 - const frameworks:string[ ] = ["CodeIgniter", "Angular", "Flutter", "ReactJs", "React Native", "Node"];
 
 ---
