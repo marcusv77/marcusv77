@@ -23,6 +23,6 @@ Browse my repositories and see a little more about my projects.
 ---
 
 ### console.log("Contact");
-- LinkedIn: <a href="https://www.linkedin.com/in/marcus-fernandes-f77/" target="_blank">marcus-fernandes-f77</a>
-- E-mail: <a href="mailto:marcusvsf.77@gmail.com">marcusvsf.77@gmail.com</a>
+- LinkedIn: <a href="https://www.linkedin.com/in/marcusvsfernandes/" target="_blank">marcusvsfernandes</a>
+- E-mail: <a href="mailto:marcusvsf.77@gmail.com">work.marcusvfernandes@gmail.com</a>
 - Website: <a href="https://fernandes-website.herokuapp.com/">https://fernandes-website.herokuapp.com/</a>
