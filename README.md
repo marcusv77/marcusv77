@@ -12,7 +12,7 @@ Browse my repositories and see a little more about my projects.
 ### console.log("Languages and Frameworks");
 
 - const languages : string[ ] = ["Pascal", "C", "C++", "Java", "Haskell", "Dart", "Js", "Ts"];
-- const frameworks : string[ ] = ["Flutter", "ReactJs", "React Native", "Node"];
+- const frameworks : string[ ] = ["Flutter", "Node", "ReactJs", "React Native", "NextJs"];
 
 ---
 
