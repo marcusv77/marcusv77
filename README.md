@@ -19,11 +19,11 @@ Browse my repositories and see a little more about my projects.
 ### console.log("Projects");
 
 #### Created by me:
-- [Hora da Revisão](https://horadarevisao.herokuapp.com/)  
+- [Hora da Revisão.](https://horadarevisao.herokuapp.com/)  
 
 
 #### Worked on development:
-- Soon will be released
+- Soon will be released.
 
 ---
 
