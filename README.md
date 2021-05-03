@@ -13,7 +13,15 @@ Browse my repositories and see a little more about my projects.
 
 - const languages : string[ ] = ["Pascal", "C", "C++", "Java", "Haskell", "Dart", "Js", "Ts"];
 - const frameworks : string[ ] = ["Flutter", "Node", "ReactJs", "React Native", "NextJs"];
-- const others : string[ ] = ["Office", "git", "GitHub", "GitLab"];
+- const others : string[ ] = ["OfficePack", "Git", "GitHub", "GitLab"];
+
+---
+
+### console.log("Studying");
+
+- const languages : string[ ] = ["C#"];
+- const frameworks : string[ ] = [ ];
+- const others : string[ ] = [ ];
 
 ---
 
