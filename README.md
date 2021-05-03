@@ -9,11 +9,12 @@ Browse my repositories and see a little more about my projects.
 
 ---
 
-### console.log("Languages and Frameworks");
+### console.log("Languages, Frameworks & Others");
 
 - const languages : string[ ] = ["Pascal", "C", "C++", "Java", "Haskell", "Dart", "Js", "Ts"];
 - const frameworks : string[ ] = ["Flutter", "Node", "ReactJs", "React Native", "NextJs"];
-- const others : string[ ] = ["OfficePack", "Git", "GitHub", "GitLab"];
+- const techs : string[ ] = ["OfficePack", "Trello", "Notion", "Git", "GitHub", "GitLab"];
+- const others : string[ ] = ["Clean Code", "Scrum"];
 
 ---
 
@@ -21,7 +22,8 @@ Browse my repositories and see a little more about my projects.
 
 - const languages : string[ ] = ["C#"];
 - const frameworks : string[ ] = [ ];
-- const others : string[ ] = [ ];
+- const techs : string[ ] = [ ];
+- const others : string[ ] = ["Clean Architecture", "MVP", "MVC", "MVVM"];
 
 ---
 
