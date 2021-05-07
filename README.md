@@ -11,7 +11,7 @@ Browse my repositories and see a little more about my projects.
 
 ### console.log("Languages, Frameworks & Others");
 
-- const languages : string[ ] = ["Pascal", "C", "C++", "Java", "Haskell", "Dart", "Js", "Ts"];
+- const languages : string[ ] = ["Pascal", "C", "C++", "Dart", "Js", "Ts"];
 - const frameworks : string[ ] = ["Flutter", "Node", "ReactJs", "React Native", "NextJs"];
 - const techs : string[ ] = ["OfficePack", "Trello", "Notion", "Git", "GitHub", "GitLab"];
 - const others : string[ ] = ["CD", "Clean Code", "Scrum"];
