@@ -31,10 +31,11 @@ Browse my repositories and see a little more about my projects.
 
 #### Created by me:
 - [Hora da Revisão.](https://horadarevisao.herokuapp.com/)  
-
+- Soon more will be released.
 
 #### Worked on development:
-- Soon will be released.
+- App Performace [Waiting for the approval of the play store and apple store].
+- Soon more will be released.
 
 ---
 
