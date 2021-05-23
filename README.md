@@ -42,7 +42,7 @@ Browse my repositories and see a little more about my projects.
 ### console.log("Working on");
 - Research project: Digital image processing applied to the evaluation of cells in Pap smears.
 - My new website.
-- One private project.
+- Flucs.
 
 ---
 
