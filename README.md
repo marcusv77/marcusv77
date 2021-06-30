@@ -1,7 +1,7 @@
 ## About.ts
 
-### console.log("Hello everybody");
-My name is **`Marcus Fernandes`** and this is my github. I am currently studying Computer Science at the [Federal University of Ouro Preto](https://ufop.br/), where I participate in the scientific initiation project ([CRIC](https://database.cric.com.br/)) with the theme "Digital image processing applied to the evaluation of cells in Pap smears", it's a basis for publicly storing data of cell images cervical cancer in order to support the analysis of cervical cancer in the Pap smear.
+### console.log("About me");
+Hello everybody, my name is **`Marcus Fernandes`** and this is my github. I am currently studying Computer Science at the [Federal University of Ouro Preto](https://ufop.br/), where I participate in the scientific initiation project ([CRIC](https://database.cric.com.br/)) with the theme "Digital image processing applied to the evaluation of cells in Pap smears", it's a basis for publicly storing data of cell images cervical cancer in order to support the analysis of cervical cancer in the Pap smear.
 
 In addition to graduating and research student, I also dedicate my time to the financial market and to the development of web and mobile applications, working in a full stack way, whether for personal or freelance projects with the most diverse themes.
 
@@ -22,7 +22,7 @@ Browse my repositories and see a little more about [my projects](https://github.
 
 - const languages : string[ ] = ["C#"];
 - const frameworks : string[ ] = [ ];
-- const techs : string[ ] = [ ];
+- const techs : string[ ] = [Docker];
 - const others : string[ ] = ["Clean Architecture", "MVP", "MVC", "MVVM", "CI"];
 
 ---
