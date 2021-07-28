@@ -1,9 +1,9 @@
 ## About.ts
 
 ### console.log("About me");
-Hello everybody, my name is **`Marcus Fernandes`** and this is my github. I am currently studying Computer Science at the [Federal University of Ouro Preto](https://ufop.br/), where I participate in the scientific initiation project ([CRIC](https://database.cric.com.br/)) with the theme "Digital image processing applied to the evaluation of cells in Pap smears", it's a basis for publicly storing data of cell images cervical cancer in order to support the analysis of cervical cancer in the Pap smear.
+Hello everybody, my name is **`Marcus Fernandes`** and this is my github. I'm an intern in Software Engineering at [SYDLE](https://www.sydle.com/) and I'm currently studying Computer Science at the [Federal University of Ouro Preto](https://ufop.br/), where I participate in the scientific initiation project ([CRIC](https://database.cric.com.br/)) with the theme "Digital image processing applied to the evaluation of cells in Pap smears", it's a basis for publicly storing data of cell images cervical cancer in order to support the analysis of cervical cancer in the Pap smear.
 
-In addition to graduating and research student, I also dedicate my time to the financial market and to the development of web and mobile applications, working in a full stack way, whether for personal or freelance projects with the most diverse themes.
+In addition to being an undergraduate, intern and research student, I also dedicate my time to the financial market (buy & hold) and the development of web and mobile applications, working on a full stack for projects with a wide range of themes.
 
 Browse my repositories and see a little more about [my projects](https://github.com/marcusv77?tab=repositories).
 
@@ -42,7 +42,8 @@ Browse my repositories and see a little more about [my projects](https://github.
 ---
 
 ### console.log("Working on");
-- Research project: Digital image processing applied to the evaluation of cells in Pap smears.
+- Internship(SYDLE): Software Engineering.
+- Research project(CRIC): Digital image processing applied to the evaluation of cells in Pap smears.
 - My new website.
 - Flucs.
 
