@@ -11,8 +11,8 @@ Browse my repositories and see a little more about [my projects](https://github.
 
 ### console.log("Languages, Frameworks & Others");
 
-- const languages : string[ ] = ["Pascal", "C", "C++", "Dart", "Js", "Ts"];
-- const frameworks : string[ ] = ["Flutter", "Node", "ReactJs", "React Native", "NextJs"];
+- const languages : string[ ] = ["Pascal", "C", "C++", "Js", "Ts"];
+- const frameworks : string[ ] = ["Node", "ReactJs", "React Native", "NextJs"];
 - const techs : string[ ] = ["OfficePack", "Trello", "Notion", "Git", "GitHub", "GitLab"];
 - const others : string[ ] = ["CD", "Clean Code", "Scrum"];
 
@@ -20,7 +20,7 @@ Browse my repositories and see a little more about [my projects](https://github.
 
 ### console.log("Studying");
 
-- const languages : string[ ] = ["C#"];
+- const languages : string[ ] = [ ];
 - const frameworks : string[ ] = [ ];
 - const techs : string[ ] = [Docker];
 - const others : string[ ] = ["Clean Architecture", "MVP", "MVC", "MVVM", "CI"];
@@ -36,16 +36,15 @@ Browse my repositories and see a little more about [my projects](https://github.
 #### Worked on development:
 - [Cric DataBase.](https://database.cric.com.br/)
 - [Cric Playground.](https://playground.database.cric.com.br/)
-- App Performace (Waiting for the approval of the apple store).
+- [App Performace.](https://play.google.com/store/apps/details?id=br.com.performance.multiservicos)
 - Soon more will be released.
 
 ---
 
 ### console.log("Working on");
-- Internship(SYDLE): Software Engineering.
-- Research project(CRIC): Digital image processing applied to the evaluation of cells in Pap smears.
+- Trainee (SYDLE): Software Engineering.
 - My new website.
-- Flucs.
+- Memento Cultural.
 
 ---
 
