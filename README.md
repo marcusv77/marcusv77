@@ -1,9 +1,9 @@
 ## About.ts
 
 ### console.log("About me");
-Hello everybody, my name is **`Marcus Fernandes`** and this is my github. I'm an intern in Software Engineering at [SYDLE](https://www.sydle.com/) and I'm currently studying Computer Science at the [Federal University of Ouro Preto](https://ufop.br/), where I participate in the scientific initiation project ([CRIC](https://database.cric.com.br/)) with the theme "Digital image processing applied to the evaluation of cells in Pap smears", it's a basis for publicly storing data of cell images cervical cancer in order to support the analysis of cervical cancer in the Pap smear.
+Hello everybody, my name is **`Marcus Fernandes`** and this is my github. I'm trainee in Software Engineering at [SYDLE](https://www.sydle.com/) and I'm currently studying Computer Science at the [Federal University of Ouro Preto](https://ufop.br/), where I participate in the scientific initiation project ([CRIC](https://database.cric.com.br/)) with the theme "Digital image processing applied to the evaluation of cells in Pap smears", it's a basis for publicly storing data of cell images cervical cancer in order to support the analysis of cervical cancer in the Pap smear.
 
-In addition to being an undergraduate, intern and research student, I also dedicate my time to the financial market (buy & hold) and the development of web and mobile applications, working on a full stack for projects with a wide range of themes.
+In addition to graduating, trainee and ex-student of scientific research, I also dedicate my time to study about the financial market and the development of web & mobile applications, working in a full-stack way for projects with the most diverse themes.
 
 Browse my repositories and see a little more about [my projects](https://github.com/marcusv77?tab=repositories).
 
@@ -11,9 +11,9 @@ Browse my repositories and see a little more about [my projects](https://github.
 
 ### console.log("Languages, Frameworks & Others");
 
-- const languages : string[ ] = ["Pascal", "C", "C++", "Js", "Ts"];
+- const languages : string[ ] = ["C", "C++", "Js", "Ts"];
 - const frameworks : string[ ] = ["Node", "ReactJs", "React Native", "NextJs"];
-- const techs : string[ ] = ["OfficePack", "Trello", "Notion", "Git", "GitHub", "GitLab"];
+- const techs : string[ ] = ["Git", "GitHub", "GitLab"];
 - const others : string[ ] = ["CD", "Clean Code", "Scrum"];
 
 ---
@@ -22,7 +22,7 @@ Browse my repositories and see a little more about [my projects](https://github.
 
 - const languages : string[ ] = [ ];
 - const frameworks : string[ ] = [ ];
-- const techs : string[ ] = [Docker];
+- const techs : string[ ] = ["Docker"];
 - const others : string[ ] = ["Clean Architecture", "MVP", "MVC", "MVVM", "CI"];
 
 ---
@@ -44,7 +44,7 @@ Browse my repositories and see a little more about [my projects](https://github.
 ### console.log("Working on");
 - Trainee (SYDLE): Software Engineering.
 - My new website.
-- Memento Cultural.
+- Memento Cultural website.
 
 ---
 
