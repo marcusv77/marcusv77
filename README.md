@@ -15,20 +15,20 @@ import Developer from 'marcusv77';
 class AbouMe extends Developer {
   name = "Marcus Fernandes";
   university = "Universidade Federal de Ouro Preto (UFOP)"
-  job  = "Trainee in Software Engineering";
+  job = "Trainee in Software Engineering";
   company = "SYDLE";
 }
 
 class Skills extends Developer {
-  linguagens  = ["C", "C++", "JavaScript", "TypeScript"];
+  linguagens = ["C", "C++", "JavaScript", "TypeScript"];
   frameworks = ["ReactJs", "NextJs", "ReactNative", "Node"];
   methodologies = ["Scrum];
-  studies  = ["Docker", "TDD", "Clean Architecture"];
+  studies = ["Docker", "TDD", "Clean Architecture"];
 }
 
 class Projects extends Developer {
-  websites  = ["Hora da Revisão", "CRIC DataBase", "My own website"];
-  apps  = ["App Performance"];
+  websites = ["Hora da Revisão", "CRIC DataBase", "My own website"];
+  apps = ["App Performance"];
 }
 ```
 ---
