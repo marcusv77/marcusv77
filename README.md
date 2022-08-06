@@ -1,4 +1,4 @@
-## About.ts
+## About.js
 
 ### console.log("About me");
 Hello everybody, my name is **`Marcus Fernandes`** and this is my github. I'm trainee in Software Engineering at [SYDLE](https://www.sydle.com/) and I'm currently studying Computer Science at the [Federal University of Ouro Preto](https://ufop.br/), where I participate in the scientific initiation project ([CRIC](https://database.cric.com.br/)) with the theme "Digital image processing applied to the evaluation of cells in Pap smears", it's a basis for publicly storing data of cell images cervical cancer in order to support the analysis of cervical cancer in the Pap smear.
@@ -9,43 +9,28 @@ Browse my repositories and see a little more about [my projects](https://github.
 
 ---
 
-### console.log("Languages, Frameworks & Others");
+```js
+import Developer from 'marcusv77';
 
-- const languages : string[ ] = ["C", "C++", "Js", "Ts"];
-- const frameworks : string[ ] = ["Node", "ReactJs", "React Native", "NextJs"];
-- const techs : string[ ] = ["Git", "GitHub", "GitLab"];
-- const others : string[ ] = ["CD", "Clean Code", "Scrum"];
+class AbouMe extends Developer {
+  name = "Marcus Fernandes";
+  university = "Universidade Federal de Ouro Preto (UFOP)"
+  job  = "Trainee in Software Engineering";
+  company = "SYDLE";
+}
 
----
+class Skills extends Developer {
+  linguagens  = ["C", "C++", "JavaScript", "TypeScript"];
+  frameworks = ["ReactJs", "NextJs", "ReactNative", "Node"];
+  methodologies = ["Scrum];
+  studies  = ["Docker", "TDD", "Clean Architecture"];
+}
 
-### console.log("Studying");
-
-- const languages : string[ ] = [ ];
-- const frameworks : string[ ] = [ ];
-- const techs : string[ ] = ["Docker"];
-- const others : string[ ] = ["Clean Architecture", "MVP", "MVC", "MVVM", "CI"];
-
----
-
-### console.log("Projects");
-
-#### Created by me:
-- [Hora da Revisão.](https://horadarevisao.herokuapp.com/)  
-- Soon more will be released.
-
-#### Worked on development:
-- [Cric DataBase.](https://database.cric.com.br/)
-- [Cric Playground.](https://playground.database.cric.com.br/)
-- [App Performace.](https://play.google.com/store/apps/details?id=br.com.performance.multiservicos)
-- Soon more will be released.
-
----
-
-### console.log("Working on");
-- Trainee (SYDLE): Software Engineering.
-- My new website.
-- Memento Cultural website.
-
+class Projects extends Developer {
+  websites  = ["Hora da Revisão", "CRIC DataBase", "My own website"];
+  apps  = ["App Performance"];
+}
+```
 ---
 
 ### console.log("Contact");
