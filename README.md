@@ -14,7 +14,7 @@ import Developer from 'marcusv77';
 
 class AbouMe extends Developer {
   name = "Marcus Fernandes";
-  university = "Universidade Federal de Ouro Preto (UFOP)"
+  university = "Universidade Federal de Ouro Preto (UFOP)";
   job = "Trainee in Software Engineering";
   company = "SYDLE";
 }
