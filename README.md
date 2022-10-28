@@ -36,4 +36,3 @@ class Projects extends Developer {
 ### console.log("Contact");
 - LinkedIn: <a href="https://www.linkedin.com/in/marcusvsfernandes/" target="_blank">marcusvsfernandes</a>
 - E-mail: <a href="mailto:work.marcusvfernandes@gmail.com">work.marcusvfernandes@gmail.com</a>
-- Website: <a href="https://www.marcusvfernandes.com.br/">www.marcusvfernandes.com.br</a>
