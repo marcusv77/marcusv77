@@ -22,7 +22,7 @@ class AbouMe extends Developer {
 class Skills extends Developer {
   linguagens = ["C", "C++", "JavaScript", "TypeScript"];
   frameworks = ["ReactJs", "NextJs", "ReactNative", "Node"];
-  methodologies = ["Scrum];
+  methodologies = ["Scrum"];
   studies = ["Docker", "TDD", "Clean Architecture"];
 }
 
