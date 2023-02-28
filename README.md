@@ -9,30 +9,6 @@ Browse my repositories and see a little more about [my projects](https://github.
 
 ---
 
-```js
-import Developer from 'marcusv77';
-
-class AbouMe extends Developer {
-  name = "Marcus Fernandes";
-  university = "Universidade Federal de Ouro Preto (UFOP)";
-  job = "Trainee in Software Engineering";
-  company = "SYDLE";
-}
-
-class Skills extends Developer {
-  linguagens = ["C", "C++", "JavaScript", "TypeScript"];
-  frameworks = ["ReactJs", "NextJs", "ReactNative", "Node"];
-  methodologies = ["Scrum"];
-  studies = ["Docker", "TDD", "Clean Architecture"];
-}
-
-class Projects extends Developer {
-  websites = ["Hora da Revisão", "CRIC DataBase", "My own website"];
-  apps = ["App Performance"];
-}
-```
----
-
 ### console.log("Contact");
 - LinkedIn: <a href="https://www.linkedin.com/in/marcusvsfernandes/" target="_blank">marcusvsfernandes</a>
 - E-mail: <a href="mailto:work.marcusvfernandes@gmail.com">work.marcusvfernandes@gmail.com</a>
