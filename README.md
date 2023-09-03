@@ -1,9 +1,11 @@
 ## About.js
 
 ### console.log("About me");
-Hello everybody, my name is **`Marcus Fernandes`** and this is my github. I'm trainee in Software Engineering at [SYDLE](https://www.sydle.com/) and I'm currently studying Computer Science at [Federal University of Ouro Preto](https://ufop.br/), where I participate in the scientific initiation project ([CRIC](https://database.cric.com.br/)) with the theme "Digital image processing applied to the evaluation of cells in Pap smears", it's a basis for publicly storing data of cell images cervical cancer in order to support the analysis of cervical cancer in the Pap smear.
+Hello everyone, my name is **`Marcus Fernandes`** and this is my github. I'm Software Engineering at [SYDLE](https://www.sydle.com/) with a degree in Computer Science from the [Federal University of Ouro Preto](https://ufop.br/).
 
-In addition to graduating, trainee and ex-student of scientific research, I also dedicate my time to study about the financial market and the development of web & mobile applications, working in a full-stack way for projects with the most diverse themes.
+During my academic journey, I led the junior company Voluta Soluções Digitais as its president, in addition to working as a teaching assistant in the Entrepreneurship course and participating as a research student in the [CRIC](https://database.cric.com.br/) project, related to "Digital Image Processing applied to the evaluation of cells in Pap smears.
+
+Outside of work, I dedicate my free time to studying the financial market and developing web and mobile applications. I have experience in full-stack projects using JavaScript and TypeScript.
 
 Browse my repositories and see a little more about [my projects](https://github.com/marcusv77?tab=repositories).
 
